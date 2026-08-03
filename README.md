@@ -38,9 +38,9 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 4 |
-| 🟡 Medium | 4 |
-| 🔴 Hard | 2 |
+| 🟢 Easy | 8 |
+| 🟡 Medium | 13 |
+| 🔴 Hard | 4 |
 
 **Total Problems Solved:** Updating...
 
