@@ -16,17 +16,6 @@ This repository contains my daily solutions to LeetCode problems, implemented pr
 
 - Python 🐍
 
-## 📂 Repository Structure
-
-```
-LeetCode-Daily-Streak/
-│
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
-```
-
 Each solution includes:
 - Problem statement reference
 - Python solution
@@ -42,7 +31,7 @@ Each solution includes:
 | 🟡 Medium | 13 |
 | 🔴 Hard | 4 |
 
-**Total Problems Solved:** Updating...
+**Total Problems Solved:** 25
 
 ## 📅 Daily Challenge
 
