@@ -27,11 +27,11 @@ Each solution includes:
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 8 |
-| 🟡 Medium | 13 |
+| 🟢 Easy | 9 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 4 |
 
-**Total Problems Solved:** 25
+**Total Problems Solved:** 30
 
 ## 📅 Daily Challenge
 
